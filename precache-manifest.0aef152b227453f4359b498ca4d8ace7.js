@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
     "revision": "38d22613338bbb679ba975e8335d15eb",
-    "url": "/static/media/bg.38d22613.png"
+    "url": "./static/media/bg.38d22613.png"
   },
   {
     "revision": "42ac5946195a7306e2a5",
